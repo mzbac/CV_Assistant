@@ -1,0 +1,7 @@
+.env
+jobposting-api
+db
+__pycache__
+
+final_cv.md
+updated_cv.md
