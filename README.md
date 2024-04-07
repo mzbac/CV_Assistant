@@ -17,6 +17,12 @@ To use the CV Assistant, you need:
 - Python 3.x installed on your machine.
 - An Anthropic API key.
 
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Configuration
 
 To configure the CV Assistant, you need to update the Anthropic API key in the `main.py` file. Replace the placeholder text in the following line with your actual API key:
